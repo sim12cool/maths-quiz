@@ -1,1 +1,1 @@
-# maths-quiz
+# maths-game
